@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">LeanFlutter</h2>
- <p align="center">To make the flutter even simper</p>
+ <p align="center">To make the flutter even simpler</p>
 </p>
 
 ---
