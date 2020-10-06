@@ -7,6 +7,11 @@
 
 ## 联系
 
+- Email: lijy91@foxmail.com
+- WeChat: lijy91
+
+## 讨论组
+
 - [QQ Group](https://t.me/joinchat/I4jz1BiiDwSSby6NPR-j0g)
 - [Telegram Group](https://t.me/joinchat/I4jz1BiiDwSSby6NPR-j0g)
 
