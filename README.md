@@ -5,6 +5,16 @@
 
 ---
 
+## Packages
+
+| Package                                                                         | Version                                                                                                     |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [flutter_aliyun_captcha](https://github.com/leanflutter/flutter_aliyun_captcha) | ![https://pub.dev/packages/flutter_aliyun_captcha](https://img.shields.io/pub/v/flutter_aliyun_captcha.svg) |
+| [flutter_flipperkit](https://github.com/leanflutter/flutter_flipperkit)         | ![https://pub.dev/packages/flutter_flipperkit](https://img.shields.io/pub/v/flutter_flipperkit.svg)         |
+| [flutter_photo_picker](https://github.com/leanflutter/flutter_photo_picker)     | ![https://pub.dev/packages/flutter_photo_picker](https://img.shields.io/pub/v/flutter_photo_picker.svg)     |
+| [flutter_svprogresshud](https://github.com/leanflutter/flutter_svprogresshud)   | ![https://pub.dev/packages/flutter_svprogresshud](https://img.shields.io/pub/v/flutter_svprogresshud.svg)   |
+| [flutter_txugcupload](https://github.com/leanflutter/flutter_txugcupload)       | ![https://pub.dev/packages/flutter_txugcupload](https://img.shields.io/pub/v/flutter_txugcupload.svg)       |
+
 ## 联系
 
 - Email: lijy91@foxmail.com
