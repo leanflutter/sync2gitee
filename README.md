@@ -14,6 +14,7 @@
 | [flutter_photo_picker](https://github.com/leanflutter/flutter_photo_picker)     | ![https://pub.dev/packages/flutter_photo_picker](https://img.shields.io/pub/v/flutter_photo_picker.svg)     |
 | [flutter_svprogresshud](https://github.com/leanflutter/flutter_svprogresshud)   | ![https://pub.dev/packages/flutter_svprogresshud](https://img.shields.io/pub/v/flutter_svprogresshud.svg)   |
 | [flutter_txugcupload](https://github.com/leanflutter/flutter_txugcupload)       | ![https://pub.dev/packages/flutter_txugcupload](https://img.shields.io/pub/v/flutter_txugcupload.svg)       |
+| [flutter_yidun_captcha](https://github.com/leanflutter/flutter_yidun_captcha)   | ![https://pub.dev/packages/flutter_yidun_captcha](https://img.shields.io/pub/v/flutter_yidun_captcha.svg)   |
 
 ## 联系
 
