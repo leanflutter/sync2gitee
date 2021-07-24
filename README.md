@@ -35,11 +35,11 @@
 
 ## Package for **desktop**
 
-| Package                                                                     | Version                                                                                                 |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [hotkey_manager](https://github.com/leanflutter/hotkey_manager)             | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             |
-| [screen_text_selector](https://github.com/leanflutter/screen_text_selector) | ![https://pub.dev/packages/screen_text_selector](https://img.shields.io/pub/v/screen_text_selector.svg) |
-| [window_manager](https://github.com/leanflutter/window_manager)             | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             |
+| Package                                                                       | Version                                                                                                 | Description                                                                       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [hotkey_manager](https://github.com/leanflutter/hotkey_manager)               | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             | This plugin allows Flutter desktop apps to defines system-wide hot key.           |
+| [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) | ![https://pub.dev/packages/screen_text_selector](https://img.shields.io/pub/v/screen_text_selector.svg) | This plugin allows Flutter desktop apps to extract text from screen.              |
+| [window_manager](https://github.com/leanflutter/window_manager)               | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             | This plugin allows Flutter desktop apps to resizing and repositioning the window. |
 
 ## 联系
 
