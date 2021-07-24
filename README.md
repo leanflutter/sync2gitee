@@ -33,6 +33,14 @@
 | [flutter_txugcupload](https://github.com/leanflutter/flutter_txugcupload)       | ![https://pub.dev/packages/flutter_txugcupload](https://img.shields.io/pub/v/flutter_txugcupload.svg)       |
 | [flutter_yidun_captcha](https://github.com/leanflutter/flutter_yidun_captcha)   | ![https://pub.dev/packages/flutter_yidun_captcha](https://img.shields.io/pub/v/flutter_yidun_captcha.svg)   |
 
+## Package for **desktop**
+
+| Package                                                                     | Version                                                                                                 |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [hotkey_manager](https://github.com/leanflutter/hotkey_manager)             | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             |
+| [screen_text_selector](https://github.com/leanflutter/screen_text_selector) | ![https://pub.dev/packages/screen_text_selector](https://img.shields.io/pub/v/screen_text_selector.svg) |
+| [window_manager](https://github.com/leanflutter/window_manager)             | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             |
+
 ## 联系
 
 - Email: lijy91@foxmail.com
