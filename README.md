@@ -10,9 +10,6 @@
   <a aria-label="License" href="https://github.com/leanflutter/leanflutter/blob/master/LICENSE">
     <img alt="" src="https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="Join the chat" href="https://t.me/flutterwidgetlivebook">
-    <img alt="" src="https://img.shields.io/badge/chat%20on-telegram-blue.svg?style=for-the-badge&labelColor=000000&logo=telegram">
-  </a>
 </p>
 
 <p align="center">
@@ -33,11 +30,11 @@
 | [flutter_txugcupload](https://github.com/leanflutter/flutter_txugcupload)       | ![https://pub.dev/packages/flutter_txugcupload](https://img.shields.io/pub/v/flutter_txugcupload.svg)       |
 | [flutter_yidun_captcha](https://github.com/leanflutter/flutter_yidun_captcha)   | ![https://pub.dev/packages/flutter_yidun_captcha](https://img.shields.io/pub/v/flutter_yidun_captcha.svg)   |
 
-## Package for **desktop**
+## Packages for **desktop**
 
 | Package                                                                       | Version                                                                                                 | Description                                                                       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [hotkey_manager](https://github.com/leanflutter/hotkey_manager)               | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             | This plugin allows Flutter desktop apps to defines system-wide hot key.           |
+| [hotkey_manager](https://github.com/leanflutter/hotkey_manager)               | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             | This plugin allows Flutter desktop apps to defines system/inapp wide hot key.     |
 | [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) | ![https://pub.dev/packages/screen_text_selector](https://img.shields.io/pub/v/screen_text_selector.svg) | This plugin allows Flutter desktop apps to extract text from screen.              |
 | [window_manager](https://github.com/leanflutter/window_manager)               | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             | This plugin allows Flutter desktop apps to resizing and repositioning the window. |
 
@@ -48,8 +45,7 @@
 
 ## 讨论组
 
-- [QQ Group](https://t.me/joinchat/I4jz1BiiDwSSby6NPR-j0g)
-- [Telegram Group](https://t.me/joinchat/I4jz1BiiDwSSby6NPR-j0g)
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=OG4xXqo2)
 
 ## 支持
 
