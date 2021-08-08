@@ -36,6 +36,7 @@
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [hotkey_manager](https://github.com/leanflutter/hotkey_manager)               | ![https://pub.dev/packages/hotkey_manager](https://img.shields.io/pub/v/hotkey_manager.svg)             | This plugin allows Flutter desktop apps to defines system/inapp wide hot key.     |
 | [screen_text_extractor](https://github.com/leanflutter/screen_text_extractor) | ![https://pub.dev/packages/screen_text_selector](https://img.shields.io/pub/v/screen_text_selector.svg) | This plugin allows Flutter desktop apps to extract text from screen.              |
+| [tray_manager](https://github.com/leanflutter/tray_manager)                   | ![https://pub.dev/packages/tray_manager](https://img.shields.io/pub/v/tray_manager.svg)                 | This plugin allows Flutter desktop apps to defines system tray.                   |
 | [window_manager](https://github.com/leanflutter/window_manager)               | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             | This plugin allows Flutter desktop apps to resizing and repositioning the window. |
 
 ## 联系
