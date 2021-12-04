@@ -7,8 +7,8 @@
   <a aria-label="LiJianying" href="https://github.com/lijy91">
     <img src="https://img.shields.io/badge/MADE%20BY-LI%20JIANYING-blue.svg?style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="License" href="https://github.com/leanflutter/leanflutter/blob/master/LICENSE">
-    <img alt="" src="https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge&labelColor=000000">
+  <a aria-label="Discord" href="https://discord.gg/zPa6EZ2jqbqb">
+    <img alt="" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 | [flutter_txugcupload](https://github.com/leanflutter/flutter_txugcupload)       | ![https://pub.dev/packages/flutter_txugcupload](https://img.shields.io/pub/v/flutter_txugcupload.svg)       |
 | [flutter_yidun_captcha](https://github.com/leanflutter/flutter_yidun_captcha)   | ![https://pub.dev/packages/flutter_yidun_captcha](https://img.shields.io/pub/v/flutter_yidun_captcha.svg)   |
 
-## Packages for **desktop**
+## Packages for desktop
 
 | Package                                                                       | Version                                                                                                 | Description                                                                                                        |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -43,22 +43,32 @@
 | [tray_manager](https://github.com/leanflutter/tray_manager)                   | ![https://pub.dev/packages/tray_manager](https://img.shields.io/pub/v/tray_manager.svg)                 | This plugin allows Flutter desktop apps to defines system tray.                                                    |
 | [window_manager](https://github.com/leanflutter/window_manager)               | ![https://pub.dev/packages/window_manager](https://img.shields.io/pub/v/window_manager.svg)             | This plugin allows Flutter desktop apps to resizing and repositioning the window.                                  |
 
-## 联系
+## Discussion
 
-- Email: lijy91@foxmail.com
-- WeChat: lijy91
+> Welcome to join the discussion group to share your suggestions and ideas with me.
 
-## 讨论组
+- WeChat Group Please add my personal WeChat `lijy91` and note `LeanFlutter`
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
+- [Telegram Group](https://t.me/leanflutter)
 
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=OG4xXqo2)
+## Sponsor
 
-## 支持
+If my work is helpful to you, or just want to support me to continue to develop, you can do the following:
 
-如果我的工作对你有帮助，或只是想要支持我继续开发，你可以通过如下方式：
+### Star or share with your friends
 
-- Star 或分享给你的朋友们。
-- [![paypal.me/lijy91](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/lijy91) - 你可以通过 PayPal 一次性捐款。
+You can Star the GitHub Repo below to help LeanFlutter get more attention.
 
-谢谢！
+- https://github.com/leanflutter/leanflutter
+
+### One-time donation
+
+[![paypal.me/lijy91](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/lijy91)
+
+| WeChatPay                             | Alipay                             |
+| ------------------------------------- | ---------------------------------- |
+| ![](/images/donate_via_wechatpay.png) | ![](/images/donate_via_alipay.png) |
+
+## Thank You
 
 🎉 🎉 🎉
