@@ -15,4 +15,5 @@ jobs:
           dst: gitee/leanflutter
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
-          force_update: true
+          account_type: org
+          # force_update: true
